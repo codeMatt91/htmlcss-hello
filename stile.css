@@ -2,3 +2,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.container {
+   width: 900px;
+   height: 900px;
+   background-color: red;
+   border: 1px solid black;
+   margin: auto;
+}
