@@ -25,3 +25,10 @@
    left: 20px;
    text-align: center;
 }
+
+#comment {
+   background-color: white;
+   position: absolute;
+   top: 350px;
+   right: 300px;
+}
