@@ -10,3 +10,18 @@
    border: 1px solid black;
    margin: auto;
 }
+
+.foto {
+   float: left;
+   width: 30%;
+   height: 200px;
+   background-color: blue;
+}
+
+.testo {
+   float: left;
+   width: 70%;
+   height: 200px;
+   background-color: blueviolet;
+
+}
