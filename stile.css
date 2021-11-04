@@ -3,15 +3,14 @@
     box-sizing: border-box;
 }
 
+
 .container {
-   width: 900px;
-   height: 900px;
-   background-color: red;
-   border: 1px solid black;
    margin: auto;
+   width: 900px;
 }
 
 .foto {
+   margin-top: 100px;
    float: left;
    width: 30%;
    height: 200px;
@@ -20,6 +19,7 @@
 
 .testo {
    float: left;
+   margin-top: 100px;
    width: 70%;
    height: 200px;
    background-color: blueviolet;
